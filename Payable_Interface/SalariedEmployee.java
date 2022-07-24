@@ -1,8 +1,6 @@
 // Fig. 10.14: SalariedEmployee.java
 // SalariedEmployee class extends Employee, which implements Payable.
 
-package latihanPBO2;
-
 public class SalariedEmployee extends Employee {
 
     private double weeklySalary;

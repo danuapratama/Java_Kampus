@@ -1,8 +1,6 @@
 // Fig. 10.15: PayableInterfaceTest.java
 // Test interface Payable.
 
-package latihanPBO2;
-
 public class PayableInterfaceTest {
 
     public static void main(String args[]) {

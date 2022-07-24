@@ -1,8 +1,6 @@
 // Fig. 10.12: Invoice.java
 // Invoice class implements Payable.
 
-package latihanPBO2;
-
 public class Invoice implements Payable {
 
     private String partNumber;

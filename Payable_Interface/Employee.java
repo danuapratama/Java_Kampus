@@ -1,8 +1,6 @@
 // Fig. 10.13: Employee.java
 // Employee abstract superclass implements Payable.
 
-package latihanPBO2;
-
 public abstract class Employee implements Payable {
 
     private String firstName;
